@@ -6,6 +6,7 @@
     <modules>
         <module>testmokuai</module>
         <module>testNam</module>
+        <module>antherTest</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

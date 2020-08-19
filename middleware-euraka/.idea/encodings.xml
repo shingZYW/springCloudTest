@@ -2,7 +2,7 @@
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/antherTest" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/testNam" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/testmokuai" charset="UTF-8" />
   </component>
